@@ -1,0 +1,9 @@
+Origin: None
+Label: Meowpybara's Repo
+Suite: stable
+Version: 1.0
+Codename: opa334
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: My first meow repo for sileo! Meow :3
+Icon: file://CydiaIcon.png
